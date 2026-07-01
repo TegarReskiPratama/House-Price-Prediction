@@ -1,15 +1,31 @@
-MIT License
-
 Copyright (c) 2026 Tegar Reski Pratama
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This project, including its source code, documentation, datasets, notebooks,
+and other associated materials, is the intellectual property of Tegar Reski
+Pratama.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+Permission is granted to view, download, and use this project for personal,
+educational, and non-commercial purposes only.
+
+You may not:
+
+- Copy or redistribute this project as your own work.
+- Modify and republish this project without prior written permission.
+- Use this project for commercial purposes.
+- Sell, sublicense, or distribute any part of this project.
+- Remove or alter the copyright notice contained in this repository.
+
+If you wish to use this project for research, publication, commercial
+applications, or any other purpose beyond personal learning, please contact
+the copyright holder to obtain written permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTY.
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS
+PROJECT.
+
+Copyright © 2026
+Tegar Reski Pratama
+Department of Informatics
+Universitas Muhammadiyah Malang

@@ -422,10 +422,10 @@ Faculty of Engineering
 Universitas Muhammadiyah Malang
 
 GitHub:
-https://github.com/yourusername
+[https://github.com/yourusername](https://github.com/TegarReskiPratama)
 
 LinkedIn:
-https://linkedin.com/in/yourusername
+https://www.linkedin.com/in/tegar-reski-pratama-47491822a/
 
 ---
 
